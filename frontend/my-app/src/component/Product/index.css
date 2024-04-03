@@ -1,0 +1,29 @@
+.product-banner-image{
+    height: 300px;
+    width: 100%;
+    object-fit: contain;
+}
+.product-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.products{
+    margin-left: 20px;
+}
+.products h1{
+    margin-bottom: 20px;
+}
+hr{
+    width: 70%;
+    height: 3px;
+    background-color: orangered;
+    align-self: center;
+    outline: none;
+    border: none;
+}
+.input-box{
+    width: 40%;
+    margin-left: 20px;
+}

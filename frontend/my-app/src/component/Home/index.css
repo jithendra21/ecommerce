@@ -1,0 +1,29 @@
+.home-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100vh;
+}
+.home-content{
+    width: 50%;
+}
+.home-content p{
+    font-size: 17px;
+    width: 550px;
+}
+.home-image{
+    width: 40%;
+    border-radius: 10px;
+}
+.home-content button{
+    width: 140px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    color: white;
+    background-color: darkblue;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 20px;
+}
